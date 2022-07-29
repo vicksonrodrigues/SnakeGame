@@ -18,7 +18,7 @@
 Clone of the classic mobile game "Snake" made with Unity for Android. 
     <br />
     <br />
-<a href = https://github.com/vicksonrodrigues/SnakeGame/blob/AndroidBuild/SnakeGame/SnakeGame.apk >Download .apk file</a>
+<a href = https://github.com/vicksonrodrigues/SnakeGame/raw/AndroidBuild/SnakeGame/SnakeGame.apk >Download .apk file</a>
   </p>
 </div>
 
@@ -54,7 +54,7 @@ Clone of the classic mobile game "Snake" made with Unity for Android.
 
 ## Installation
 
-To run the game on your android device , download the <a href = https://github.com/vicksonrodrigues/SnakeGame/blob/AndroidBuild/SnakeGame/SnakeGame.apk>Snake.apk </a> file and Install it . You can also find the apk file in <a href = https://github.com/vicksonrodrigues/SnakeGame/tree/AndroidBuild/>Android Build </a> Branch
+To run the game on your android device , download the <a href = https://github.com/vicksonrodrigues/SnakeGame/raw/AndroidBuild/SnakeGame/SnakeGame.apk>Snake.apk </a> file and Install it . You can also find the apk file in <a href = https://github.com/vicksonrodrigues/SnakeGame/tree/AndroidBuild/>Android Build </a> Branch
 
 
 
